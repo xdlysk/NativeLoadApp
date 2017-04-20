@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9173bbdfdc266f410cd481a6a1f4536064c3fb52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b136335aec58c1bc64c02a87076d8620ac89c214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_41fcada74f65d66be66409d1b2f8ef5fb94adb3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_480138a2359c7483e17756aee8413612447fd8a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jeqee\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_cc34b3dd6052b615c8295aa03ff13ddc89fdc613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4ea137c5e76b4e998d9fc26899a026cbbc98b7be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c987aacd227a5d9765b68098acfff50c40cf2d4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_107e535f0b69e5a29808442118f40353c29b842d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_08d08e937359df121725da7f134a49a73e3e0c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ddafa7b5ec395adc002bf8f85a10073d61498489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_9f27bb4026e655ff513c8c167a146165a78d93d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_746f95c7ffa5457da37049cd8d97ac35d51c397e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c49359fc97f2baae5ba2c3689745b7ecab02771e">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d4011b03528dfa047d4570e368e170652aade281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_66fb5f042e74a4789b6d7540f6fe5334727de064\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d02f620a5f13ec619bc4972b00c7c01caae1978">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1cda847e2656e57bbca855eaeb9d2a7ce359a1a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_524c8d8ecf3850a7a39a28931cb4cee21feb74c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\workspace\java\NativeLoadApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\workspace\java\NativeLoadApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_381b9c5bac955937079bdbe942e2e11e197ae50c\classes.dex" />
+    </item>
+
+</items>
